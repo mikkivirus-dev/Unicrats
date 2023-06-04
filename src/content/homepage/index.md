@@ -11,30 +11,30 @@ banner:
 ##key features
 key_features:
   title: "Our Services"
-  description: Welcome to our digital marketing website, where we offer a wide range of services to help your business thrive in the digital realm. Our team of experts is dedicated to providing you with the tools and strategies you need to reach your target audience, increase brand visibility, and drive conversion rates. Explore the following sections to learn more about our services
+  description: With over 5+ years of experience in the digital marketing industry, Unicrats is a trusted provider of comprehensive digital marketing services. 
   feature_list:
-    - icon: "facebook"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "facebook"
       title: Social Media Advertising
       content: Running paid advertising campaigns on social media platforms to reach a wider audience and drive conversions.
-    - icon: "send"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "send"  
       title: Pay-Per-Click Advertising (PPC)
       content: Creating and managing targeted online ad campaigns to drive traffic and conversions.
     - icon: "package" 
       title: E-commerce Solutions
       content: Assisting businesses in setting up and optimizing online stores, including inventory management, payment gateways, and user experience.
-    - icon: "search"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "search" 
       title: Search Engine Optimization (SEO)
       content: Optimizing websites to improve organic search engine rankings and increase visibility.
-    - icon: "mail"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "mail"
       title: Email Marketing
       content: Designing and executing email campaigns to nurture leads, promote products/services, and build customer relationships.
-    - icon: "globe"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "globe"
       title: Web Design and Development
       content: Designing and building visually appealing and user-friendly websites optimized for conversions and mobile responsiveness. 
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "map" 
       title: Local SEO
       content: Optimizing online presence to rank higher in local search results and attract customers in specific geographical areas.
-    - icon: "instagram"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "instagram"
       title: Social Media Management
       content: Managing social media accounts, posting content, engaging with the audience, and monitoring social media conversations.
     - icon: "users"
