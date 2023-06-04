@@ -1,11 +1,11 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Data-Driven Marketing Tactics that Drive Conversions"
+  content: "Unicrats helps convert more leads, amplify ROI, and unleash your brand's full potential through data-driven marketing solutions!"
   image: /images/banner-img.png
   button:
     label: Enquire Now
-    link: "https://unicrats.com/"
+    link: "/contact"
     enable: true
 
 ##key features
