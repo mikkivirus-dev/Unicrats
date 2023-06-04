@@ -31,9 +31,9 @@ key_features:
     - icon: "globe"
       title: Web Design and Development
       content: Designing and building visually appealing and user-friendly websites optimized for conversions and mobile responsiveness. 
-    - icon: "map" 
-      title: Local SEO
-      content: Optimizing online presence to rank higher in local search results and attract customers in specific geographical areas.
+    - icon: "figma" 
+      title: UX/UI Optimization
+      content: Improving the user experience and interface design of websites and landing pages to enhance engagement and conversions.
     - icon: "instagram"
       title: Social Media Management
       content: Managing social media accounts, posting content, engaging with the audience, and monitoring social media conversations.
@@ -45,21 +45,21 @@ key_features:
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+    title: We create digital experiences to grow your brand 
+    description: Creative digital agency offering strategy, design, and technology services to startups and businesses. We create compelling experiences for clients and customers through innovative solutions.
     tab_list:
-        - title: Habit building essential choose habit
-          icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Search-optimized content and advertising attract visitors to your website.
+          icon: "lock"  
           image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
-          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Storytelling and branding strategies for social media and  your website.
+          icon: "clock" 
           image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
-          icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Use conversion optimization features to drive purchases and consultation requests.
+          icon: "bell"
           image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
+    - title: Why Unicrats?
       desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
       image: "/images/collaboration.png"
       list:
