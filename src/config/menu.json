@@ -9,10 +9,6 @@
       "url": "/about"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
       "name": "Features",
       "url": "/features"
     },
@@ -57,6 +53,10 @@
           "url": "/terms-and-conditions"
         }
       ]
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
     },
     {
       "name": "Contact",

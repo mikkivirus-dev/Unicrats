@@ -64,11 +64,11 @@ members:
   title: This is who we are
   description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: Pawan Dhande
+      field: Co-Founders
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Mukund Kadu
+      field: Co-Founders
       image: "/images/users/user-2.png"
     - name: Ortrin Okaster
       field: Software Engineer
